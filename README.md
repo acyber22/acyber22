@@ -36,10 +36,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 # Certifications
 <div>
+    <!-- Blue Team Level 1 -->
     <a href="https://www.credly.com/earner/earned/badge/5652b71c-2086-4ed6-948e-7524cf3114e3" target="_blank">
         <img src="https://img.shields.io/badge/-BTL1-1D70B8?style=for-the-badge&logo=shield-halved&logoColor=white" alt="BTL1" />
-    <a>
-    <img src="https://img.shields.io/badge/CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=White)" />
+    </a>
+    <!-- CompTIA CySA+ -->
+    <a href="https://www.credly.com/badges/8d771730-575b-47eb-96f3-6bea1e8853a5/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=White)" />
+    </a>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/Splunk%20Certified%20User-green?style=for-the-badge&logo=Splunk&logoColor=White)" />
