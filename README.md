@@ -45,12 +45,15 @@ Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analy
         <img src="https://img.shields.io/badge/CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=White)" />
     </a>
     <!-- CompTIA Sec+  -->
-    <a href="https://www.credly.com/earner/earned/badge/7a22b15e-b24f-4418-827c-1d18b11bf86a" target="_blank">
+    <a href="https://www.credly.com/earner/earned/badge/4f78bad6-a833-46dc-a6f8-3f797e5d044c" target="_blank">
         <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     </a>
     <!-- CompTIA Net+  -->
     <a href="https://www.credly.com/earner/earned/badge/7a22b15e-b24f-4418-827c-1d18b11bf86a" target="_blank">
         <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     </a>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="54d7bf73-beca-4b04-8b3b-c45bd08487a3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <!-- Splunk Core Certified User  -->
+    <a href="https://www.credly.com/earner/earned/badge/54d7bf73-beca-4b04-8b3b-c45bd08487a3" target="_blank">
+        <img src="https://img.shields.io/badge/Splunk%20Certified%20User-green?style=for-the-badge&logo=splunk" />
+    </a>
 <div>
