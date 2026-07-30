@@ -22,9 +22,16 @@ Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analy
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/Splunk-green?style=for-the-badge&logo=splunk" />
+    <img src="https://img.shields.io/badge/Microsoft%20Sentinel-00A4EF?style=for-the-badge&logo=Sentinel" />
+
+</div>
+
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-00A4EF?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
