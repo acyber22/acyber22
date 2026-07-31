@@ -12,7 +12,7 @@ Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analy
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM and Log Analysis          | <a href="https://github.com/acyber22/Splunk-Lab">Splunk Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| 34 Practical SQL Questions | <a href="https://github.com/acyber22/SQL-Lab">SQL Lab</a>|
 
 ## Tools
 
