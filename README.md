@@ -1,7 +1,10 @@
 # Nice to meet you, I'm Andrew!
 
 # About Me
-I am a recent graduate with a profound interest in Security w/ 5 Global Certifications.
+I am a recent graduate with a profound interest in Security w/ 5 Global Certifications. Feel free to check out my recent
+24-hour Incident Response exam timelapse here:
+
+[24hr BTL1 IR Exam Timelapse](https://www.youtube.com/watch?v=1ssEeJPMDrA)
 
 ## Objective
 
