@@ -1,5 +1,4 @@
 # Nice to meet you, I'm Andrew!
-<a href="https://www.linkedin.com/in/andrew-flores-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # About Me
 I am a recent graduate with a profound interest in Security w/ 5 Global Certifications.
@@ -60,3 +59,6 @@ Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analy
         <img src="https://img.shields.io/badge/Splunk%20Certified%20User-green?style=for-the-badge&logo=splunk" />
     </a>
 <div>
+
+### Connect with me
+<a href="https://www.linkedin.com/in/andrew-flores-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
