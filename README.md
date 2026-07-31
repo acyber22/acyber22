@@ -1,4 +1,4 @@
-# Nice to meet you, I'm Andrew!
+# Howdy, I'm Andrew!
 
 # About Me
 I am a recent graduate with a profound interest in Security w/ 5 Global Certifications. Feel free to check out my recent
