@@ -1,9 +1,9 @@
 # Howdy, I'm Andrew!
-
 # About Me
-I am a recent graduate with a profound interest in Security w/ 5 Global Certifications. Feel free to check out my recent
-24-hour Incident Response exam timelapse here:
+A recent Cybersecurity graduate from UTSA with a profound interest in Security. I hold five globally recognized certifications from CompTIA, Splunk, and Cengage. Feel free to check out my
+24-hour Incident Response exam from [Blue Team](https://www.centri.org/certifications/blue-team-level-1).
 
+timelapse here:
 [24hr BTL1 IR Exam Timelapse](https://www.youtube.com/watch?v=1ssEeJPMDrA)
 
 <img width="1078" height="608" alt="Image" src="https://github.com/user-attachments/assets/4ebaf973-03e0-4f87-8fd1-440bfb74e213" />
