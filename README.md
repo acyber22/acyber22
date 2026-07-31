@@ -38,6 +38,25 @@ Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analy
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
+### Incident Response & Forensics
+<div>
+    <img src="https://img.shields.io/badge/TheHive-gray?style=for-the-badge&logo=TheHive5&color=yellow" />
+    <img src="https://img.shields.io/badge/Autopsy-gray?style=for-the-badge&logo=Autopsy" />
+    <img src="https://img.shields.io/badge/Volatility-00A4EF?style=for-the-badge&logo=Volatility" />
+</div>
+
+### Threat Intelligence
+<div>
+    <img src="https://img.shields.io/badge/MISP-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/VirusTotal-blue?style=for-the-badge&logo=VirusTotal" />
+</div>
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GCP-red?style=for-the-badge&logo=Google%20Cloud" />
+</div>
+
 # Certifications
 <div>
     <!-- Blue Team Level 1 -->
