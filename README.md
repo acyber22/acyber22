@@ -29,8 +29,8 @@ Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analy
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-00A4EF?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/Snort-white?style=for-the-badge&logo=snort" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Snort-gray?style=for-the-badge&logo=Snort" />
 </div>
 
 ### Endpoint
