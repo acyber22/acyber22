@@ -81,5 +81,5 @@ Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analy
     </a>
 <div>
 
-### Connect with me
+# Connect with me
 <a href="https://www.linkedin.com/in/andrew-flores-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
