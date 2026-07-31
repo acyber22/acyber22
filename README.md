@@ -6,6 +6,9 @@ I am a recent graduate with a profound interest in Security w/ 5 Global Certific
 
 [24hr BTL1 IR Exam Timelapse](https://www.youtube.com/watch?v=1ssEeJPMDrA)
 
+<img width="1078" height="608" alt="Image" src="https://github.com/user-attachments/assets/4ebaf973-03e0-4f87-8fd1-440bfb74e213" />
+
+
 ## Objective
 
 Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
