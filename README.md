@@ -21,6 +21,7 @@ Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analy
 <div>
     <img src="https://img.shields.io/badge/Splunk-green?style=for-the-badge&logo=splunk" />
     <img src="https://img.shields.io/badge/Microsoft%20Sentinel-00A4EF?style=for-the-badge&logo=Sentinel" />
+    <img src="https://img.shields.io/badge/Syslog-gray?style=for-the-badge&logo=Syslog" />
 
 </div>
 
