@@ -13,7 +13,7 @@ timelapse here:
 
 Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## Labs
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
