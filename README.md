@@ -1,13 +1,6 @@
 # Howdy, I'm Andrew!
 # About Me
-A recent Cybersecurity graduate from UTSA with a profound interest in Security. I hold five globally recognized certifications from CompTIA, Splunk, and Cengage. Feel free to check out my
-24-hour Incident Response exam from [Blue Team](https://www.centri.org/certifications/blue-team-level-1).
-
-timelapse here:
-[24hr BTL1 IR Exam Timelapse](https://www.youtube.com/watch?v=1ssEeJPMDrA)
-
-<img width="1078" height="608" alt="Image" src="https://github.com/user-attachments/assets/4ebaf973-03e0-4f87-8fd1-440bfb74e213" />
-
+A recent Cybersecurity graduate from UTSA with a profound interest in Security. I hold five globally recognized certifications from CompTIA, Splunk, and Cengage.
 
 ## Objective
 
@@ -90,3 +83,8 @@ Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analy
 
 # Connect with me
 <a href="https://www.linkedin.com/in/andrew-flores-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+## BTL1 Exam Timelapse
+Feel free to check out my 24-hour Incident Response exam [Timelapse](https://www.youtube.com/watch?v=1ssEeJPMDrA) from Blue Team.
+
+<img width="1078" height="608" alt="Image" src="https://github.com/user-attachments/assets/4ebaf973-03e0-4f87-8fd1-440bfb74e213" />
