@@ -17,9 +17,9 @@ Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analy
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| pfSense-enterprise-perimeter-defense | <a href="https://github.com/acyber22/pfsense-enterprise-perimeter-defense/tree/main">pfSense & IDS Lab</a>|
-| SIEM and Log Analysis          | <a href="https://github.com/acyber22/Splunk-Lab">Splunk Lab</a>|
-| 34 Practical SQL Questions | <a href="https://github.com/acyber22/SQL-Lab">SQL Lab</a>|
+| Firewall ACLs & Suricata | <a href="https://github.com/acyber22/pfsense-enterprise-perimeter-defense/tree/main">pfSense & IDS Lab</a>|
+| SIEM, Splunk (SPL)         | <a href="https://github.com/acyber22/Splunk-Lab">Splunk Lab</a>|
+| PostgreSQL | <a href="https://github.com/acyber22/SQL-Lab">SQL Lab</a>|
 
 ## Tools
 
