@@ -1,4 +1,4 @@
-# Howdy, I'm Andrew!
+# Hi, I'm Andrew!
 A recent Cybersecurity graduate from UTSA with a profound interest in Security. I hold five globally recognized certifications from CompTIA, Splunk, and Cengage.
 
 ## Objective
